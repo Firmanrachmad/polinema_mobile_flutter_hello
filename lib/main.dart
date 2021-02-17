@@ -97,7 +97,7 @@ class _MyHomePageState extends State<MyHomePage> {
               'Firman Rachmad Caesar',
             ),
             Text(
-              '1931710152',
+              '1931710152 ',
             ),
           ],
         ),
